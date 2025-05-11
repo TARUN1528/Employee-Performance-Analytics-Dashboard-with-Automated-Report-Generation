@@ -1,1 +1,0 @@
--- Stored procedures e.g., sp_CalculatePromotionReadiness
