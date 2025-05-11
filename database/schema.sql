@@ -1,0 +1,1 @@
+-- SQL table definitions (Employees, Reviews, KPIs)
