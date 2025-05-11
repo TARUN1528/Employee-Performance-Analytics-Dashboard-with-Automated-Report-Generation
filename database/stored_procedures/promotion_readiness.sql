@@ -1,0 +1,1 @@
+-- SQL script for promotion readiness KPI
